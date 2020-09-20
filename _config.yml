@@ -29,8 +29,8 @@ colors:
   white:     '#f8f8f8'
   blue:      '#00cfff'
   green:     '#56f600'
-  purple:    '#ff00a4'
-  orange:    '#ffc200'
+  magenta:    '#ff00a4'
+  yellow:    '#ffc200'
   gray: '#d3d3d3'
 
 kramdown:
