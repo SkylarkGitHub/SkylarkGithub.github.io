@@ -1,8 +1,2 @@
 
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+If you have any queries please don't hesitate to contact us at realitsolutionswa@gmail.com
