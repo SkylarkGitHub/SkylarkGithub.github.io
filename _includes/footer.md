@@ -1,2 +1,2 @@
 
-If you have any queries please don't hesitate to contact us at [contact@realitsolutions.com.au](mailto://contact@realitsolutions.com.au
+If you have any queries please don't hesitate to contact us at [Send Email](mailto://contact@realitsolutions.com.au)
